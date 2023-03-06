@@ -1,0 +1,30 @@
+.container {
+  min-height: 100vh;
+  width: 80%;
+}
+
+.dog {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10%;
+  margin-top: 5%;
+  height: 70vh;
+  width: 50vh;
+}
+
+.dogContainer {
+  display: flex;
+  align-items: center;
+  margin-top: 6%;
+}
+
+.text {
+  width: 40%;
+  color: #ffffff;
+  font-style: italic;
+  -webkit-text-stroke: 2px black;
+  margin-left: 5%;
+  font-size: 5vh;
+  text-align: center;
+}

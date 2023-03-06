@@ -1,0 +1,43 @@
+.allContainer{
+  margin-top: 6%;
+  min-height: 100vh;
+
+}
+
+.dogContainer {
+  height: 100%;
+  width: 100%;
+  
+}
+
+.cardsContainer {
+  padding-right: 18%;
+  padding-top: 0rem;
+  padding-left: 2rem;
+  background-color: #f2cc8f;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, auto);
+  grid-gap: 10px;
+  height: 100%;
+}
+
+.paginationBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: auto;
+  list-style: none;
+  background-color: #f2cc8f;
+}
+
+.loadingDog{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 15rem;
+  margin-left: 35%;
+  width: 20rem;
+  height: 20rem;
+}
