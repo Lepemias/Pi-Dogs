@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72680968.chunk.css",
+    "main.js": "/static/js/main.e817acaa.chunk.js",
+    "main.js.map": "/static/js/main.e817acaa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0413ce06.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0413ce06.js.map",
+    "static/js/2.ed09868d.chunk.js": "/static/js/2.ed09868d.chunk.js",
+    "static/js/2.ed09868d.chunk.js.map": "/static/js/2.ed09868d.chunk.js.map",
+    "static/js/3.fb24cafa.chunk.js": "/static/js/3.fb24cafa.chunk.js",
+    "static/js/3.fb24cafa.chunk.js.map": "/static/js/3.fb24cafa.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.72680968.chunk.css.map": "/static/css/main.72680968.chunk.css.map",
+    "static/js/2.ed09868d.chunk.js.LICENSE.txt": "/static/js/2.ed09868d.chunk.js.LICENSE.txt",
+    "static/media/dog-confused.3d119c4e.png": "/static/media/dog-confused.3d119c4e.png",
+    "static/media/dog.cde07528.png": "/static/media/dog.cde07528.png",
+    "static/media/height.c5095d06.png": "/static/media/height.c5095d06.png",
+    "static/media/landing.module.css": "/static/media/landing-img.cad2f085.jpg",
+    "static/media/loading-dog.cec6f0d4.gif": "/static/media/loading-dog.cec6f0d4.gif",
+    "static/media/weight.e7269add.png": "/static/media/weight.e7269add.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0413ce06.js",
+    "static/js/2.ed09868d.chunk.js",
+    "static/css/main.72680968.chunk.css",
+    "static/js/main.e817acaa.chunk.js"
+  ]
+}
